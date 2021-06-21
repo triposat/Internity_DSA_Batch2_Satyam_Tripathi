@@ -47,7 +47,7 @@
 
 - **Graph** Data Structure in Social Media and Google Map
   -  You likely use **social networking platforms** such as Facebook, LinkedIn, Instagram, and others. A fantastic example of a graph in usage is social media. Graphs are used in social media to hold information about each user.
-  -  Similarly, **Google Maps **applies that makes use of graphs. In the case of Google Maps, each place is called a node, and the roads that connect them are called edges.
+  -  Similarly, **Google Maps** applies that makes use of graphs. In the case of Google Maps, each place is called a node, and the roads that connect them are called edges.
 <p align="center"><img width="20%" src="https://cdn0.iconfinder.com/data/icons/hexagone-business-finance-set-1/128/GLOBAL_COMMUNICATION-256.png"></p>
 <p align="center"><img width="20%" src="https://cdn3.iconfinder.com/data/icons/map-navigation-8/512/z5-map-location-pin-256.png"></p>
 
