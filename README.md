@@ -61,7 +61,7 @@
 <p align="center"><img width="20%" src="https://cdn3.iconfinder.com/data/icons/servers-and-networks-flat/60/Search-Server-searching-magnifying-glass-256.png"></p>
 
 ### Revise the concepts of C++.
-- Completed
+- **Completed**
 
 ### Explore more about Standard Template Library(STL).
 - Algorithms
