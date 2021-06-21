@@ -38,18 +38,27 @@
 - **Stack** Data Structure in pile of plates placed on top of each other
   - A stack can be a **stack of plates** stacked on top of each other. Each plate under the topmost plate is inaccessible until the plates above are removed. Plates may only be added or removed from the top.
   - Each plate represents an element, while the pile represents the stack. Each plate is a variable in programming words, and the pile is a data structure.
+
+<p align="center"><img width="20%" src="https://cdn3.iconfinder.com/data/icons/cleaning-and-housework-3/118/wash_clean_dishes_dish_plates-256.png"></p>
+
 - **Queue** Data Structure while Boarding a Bus
   - The components in Queue are organized according to the **FIFO**(**First In**, **First Out**) rule. It's like customers waiting in line to **board a bus**. The individual who gets to the front of the line is the first to board the bus. New passengers can join the queue at the rear, while travelers board the bus at the front.
+<p align="center"><img width="20%" src="https://cdn2.iconfinder.com/data/icons/physical-distancing/64/Keep_distance_protective_social_physical_people_stand_queue0-256.png"></p>
+
 - **Graph** Data Structure in Social Media and Google Map
   -  You likely use **social networking platforms** such as Facebook, LinkedIn, Instagram, and others. A fantastic example of a graph in usage is social media. Graphs are used in social media to hold information about each user.
   -  Similarly, **Google Maps **applies that makes use of graphs. In the case of Google Maps, each place is called a node, and the roads that connect them are called edges.
+<p align="center"><img width="20%" src="https://cdn0.iconfinder.com/data/icons/hexagone-business-finance-set-1/128/GLOBAL_COMMUNICATION-256.png"></p>
+<p align="center"><img width="20%" src="https://cdn3.iconfinder.com/data/icons/map-navigation-8/512/z5-map-location-pin-256.png"></p>
 
 - **Sorting** Algorithm to Arrange Books in the Shelf
   - Assume you're putting books on a shelf based on their height. In this situation, we can maintain the taller volumes on the left and the shorter books on the right, or we can do the opposite.
+<p align="center"><img width="20%" src="https://cdn3.iconfinder.com/data/icons/education-and-learning-hexagon-2/128/1-256.png"></p>
 
 - **Searching** Algorithm to Find a Book in a Shelf
   - Assume you wish to look for a certain book on a shelf. The books in the self are not organized in any particular way. How would you go about finding the book in the least amount of time? DSA solves to this problem.
 - Shortest Path Finding Algorithms to Find the Shortest Path in Google Map 
+<p align="center"><img width="20%" src="https://cdn3.iconfinder.com/data/icons/servers-and-networks-flat/60/Search-Server-searching-magnifying-glass-256.png"></p>
 
 ### Revise the concepts of C++.
 - Completed
